@@ -11,3 +11,10 @@
 Полученные данные сохраняются в Google Sheets, чтобы мы могли просматривать и анализировать предложения и идеи от сотрудников.
 
 **Таким образом, наш бот "IdeasBot" создан для упрощения и улучшения коммуникации сотрудников и сбора ценных идей для развития компании в области искусственного интеллекта и автоматизации.**
+
+
+![Test](https://github.com/kmsmlengineer/Telegram-bot-for-technical-support/assets/86304910/736ac4b7-80ef-4e87-8d88-6a8811f6e313)
+
+
+![Test1](https://github.com/kmsmlengineer/Telegram-bot-for-technical-support/assets/86304910/29b1b93f-801c-419c-ba97-d6633c85fa6d)
+
